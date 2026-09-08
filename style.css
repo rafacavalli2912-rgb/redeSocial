@@ -36,7 +36,7 @@ background: linear-gradient(
 }
 
 .phone-screen {
-background: #ede3e3;
+background: #ebe5e5;
 border-radius: 32px;
 overflow: hidden;
 
@@ -108,7 +108,7 @@ height: 44px;
 width: 100%;
 height: 100%;
 border-radius: 50%;
-border: 2px solid #ffffff;
+border: 2px solid #0e000004;
 object-fit: cover;
 }
 
@@ -196,12 +196,12 @@ transition: transform 0.15s ease, fill 0.15s ease, stroke 0.15s ease;
 
 /* Coração curtido */
 .like-btn.liked {
-color: #ff3040;
+color: #742b31;
 }
 
 .like-btn.liked svg {
-fill: #ff3040;
-stroke: #ff3040;
+fill: #742229;
+stroke: #70292f;
 }
 
 /* Animação */
@@ -229,7 +229,7 @@ animation: heartBounce 0.2s ease;
 
 /* Botão salvar */
 .bookmark-btn.bookmarked {
-color: #ffffff;
+color: #0e0d0d;
 }
 
 .bookmark-btn.bookmarked svg {
@@ -248,11 +248,11 @@ color: #e0e5ec;
 }
 
 .likes {
-color: #e8ebef;
+color: #161616;
 }
 
 .likes strong {
-color: #e9eef6;
+color: #070707;
 }
 
 /* Barra inferior */
@@ -272,7 +272,7 @@ background: #131010;
 }
 
 .nav-item {
-color: #e5e8ee;
+color: #0a0a0a;
 cursor: pointer;
 }
 
