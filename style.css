@@ -36,7 +36,7 @@ background: linear-gradient(
 }
 
 .phone-screen {
-background: #ebe5e5;
+background: #6e2929;
 border-radius: 32px;
 overflow: hidden;
 
@@ -84,7 +84,7 @@ color: #0e1012;
 position: relative;
 width: 100%;
 aspect-ratio: 4 / 5;
-background-color: #eee;
+background-color: #532323;
 cursor: pointer;
 }
 
@@ -272,7 +272,7 @@ background: #131010;
 }
 
 .nav-item {
-color: #0a0a0a;
+color: #f5efef;
 cursor: pointer;
 }
 
